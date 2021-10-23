@@ -1,5 +1,6 @@
 # formulario de cadastro Itau
- Este projeto foi desenvolvido para o painel de entrevistas do processo para o Itaú
+ Este projeto foi feito  para o painel de entrevistas do processo para o Itaú.
+ 
 Desenvolvido por Diego RIcardo Matos
 [Linkedin](https://www.linkedin.com/in/diego-matos-596ba521a/)
 
